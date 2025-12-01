@@ -1,0 +1,4 @@
+packages:.
+-- with-compiler:ghc-9.2
+optimization:2
+tests: True
